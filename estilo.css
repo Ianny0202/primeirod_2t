@@ -63,3 +63,19 @@ li a:hover {
   background: rgb(163, 224, 216);
   color: black;
 }
+#planta {
+   width: 11%;
+}
+.caixaPlanta {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 90%;
+  height: 200px;
+  background: green;
+  margin: 20px;
+  border-color: yellow;
+  border-width: 20px;
+  border-style: double;
+  padding: 20px;
+}
